@@ -14,4 +14,4 @@ As per my LinkedIn account, I am currently a Cloud Security Researcher at eSenti
 
 <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/stackoverflow.svg" /> [StackOverflow: Kyhle Ohlinger](https://stackoverflow.com/users/5114477/kyhle-ohlinger)
 
-<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg" /> [Twitter: KyhleO](https://twitter.com/KyhleO)
+<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/tree/develop/icons/twitter.svg" /> [Twitter: KyhleO](https://twitter.com/KyhleO)
