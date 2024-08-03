@@ -4,7 +4,7 @@ This page serves as a homepage for my GitHub account. It contains basic informat
 
 ## My Basic Information
 
-As per my LinkedIn account, I am currently a Cloud Security Researcher at eSentire. I enjoy gaming, martial arts, and CTFs.
+As per my LinkedIn account, I am currently the Lead Security Engineer within the Security Operations Team at Wayfair. I enjoy gaming, martial arts, and CTFs.
 
 ## Follow Me
 
