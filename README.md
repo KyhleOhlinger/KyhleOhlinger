@@ -10,7 +10,7 @@ As per my LinkedIn account, I am currently the Lead Security Engineer within the
 
 <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" /> [Github: KyhleOhlinger](https://github.com/KyhleOhlinger)
 
-<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" /> [LinkedIn: Kyhle Ohlinger](https://za.linkedin.com/in/kyhleohlinger)
+<img height="32" width="32" src="https://github.com/Kevin-Hall/kevin-hall/blob/main/linkedin.svg" /> [LinkedIn: Kyhle Ohlinger](https://za.linkedin.com/in/kyhleohlinger)
 
 <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/stackoverflow.svg" /> [StackOverflow: Kyhle Ohlinger](https://stackoverflow.com/users/5114477/kyhle-ohlinger)
 
